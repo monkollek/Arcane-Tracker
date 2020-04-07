@@ -20,4 +20,5 @@ pluginManagement {
 
 enableFeaturePreview("GRADLE_METADATA")
 
-include ("app", "detector", "kotlin-analytics", "kotlin-console", "kotlin-hslog", "kotlin-deckstring", "kotlin-hsreplay-api", "kotlin-hsmodel")
+//include ("app", "detector", "kotlin-analytics", "kotlin-console", "kotlin-hslog", "kotlin-deckstring", "kotlin-hsreplay-api", "kotlin-hsmodel")
+include ("kotlin-analytics", "kotlin-console", "kotlin-hslog", "kotlin-deckstring", "kotlin-hsreplay-api", "kotlin-hsmodel")
